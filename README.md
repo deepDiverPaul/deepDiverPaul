@@ -5,7 +5,6 @@
   - frontend-developer
   - Vue.js enthusiast
 - 📫 How to reach me: info@onlineer.de
-- 🔭 I’m currently working on a worktime-tracker using [Puck.js](https://www.puck-js.com)
 
 <!--
 **deepDiverPaul/deepDiverPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
