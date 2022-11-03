@@ -3,7 +3,7 @@
   - husband
   - autodidact
   - frontend-developer
-  - Vue.js enthusiast
+  - Vue and Nuxt developer
 - 📫 How to reach me: info@onlineer.de
 
 <!--
