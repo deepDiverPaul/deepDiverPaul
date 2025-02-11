@@ -2,8 +2,10 @@
 - ⚡ I am
   - husband
   - autodidact
-  - frontend-developer
-  - Vue and Nuxt developer
+  - Senior Frontend Developer
+  - Certified Senior Vue developer
+  - Certified TypeScript Developer
+  - Passion for Nuxt, Directus and n8n
 - 📫 How to reach me: info@onlineer.de
 
 <!--
